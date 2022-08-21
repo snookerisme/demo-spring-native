@@ -1,0 +1,6 @@
+#
+#Thu Nov 18 16:38:20 ICT 2021
+com.example.demo.feature.demo.DemoRouter=org.springframework.stereotype.Component
+com.example.demo.Application=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.example.demo.feature.demo.DemoHandler=org.springframework.stereotype.Component
+com.example.demo.feature.demo.services.DemoService=org.springframework.stereotype.Component
