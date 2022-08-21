@@ -1,0 +1,1 @@
+INSERT INTO USER (id,name,mobile,email) VALUES ('1','admin','-','admin@mail.com');
